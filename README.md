@@ -2,6 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/reportportal-client.svg?maxAge=259200)](https://pypi.python.org/pypi/reportportal-client)
 [![Build Status](https://travis-ci.org/reportportal/client-Python.svg?branch=master)](https://travis-ci.org/reportportal/client-Python)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHardNorth%2Fclient-Python.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHardNorth%2Fclient-Python?ref=badge_shield)
 
 Library used only for implementors of custom listeners for ReportPortal
 
@@ -193,3 +194,7 @@ rp_logger.info("Some Text Here",
 
 Licensed under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 license (see the LICENSE.txt file).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHardNorth%2Fclient-Python.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHardNorth%2Fclient-Python?ref=badge_large)
